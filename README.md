@@ -29,6 +29,8 @@ A web shopping application with authentication and payment.
 - 💾 npm i jwt-decode is required
 - 💾 npm i @apolo/client is required
 - 💾 npm i react-router-dom is required
+- 💾 npm i redux is required
+- 💾 npm i react-redux is required
 
 ## Usage
 💻 MU Coding Bootcamp assignment
