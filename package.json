@@ -15,5 +15,12 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.6.1",
+    "apollo-boost": "^0.4.9",
+    "apollo-link-context": "^1.0.20",
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.1"
   }
 }
